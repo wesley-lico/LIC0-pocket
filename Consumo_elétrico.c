@@ -33,5 +33,6 @@ int main(){
     
     printf("o con sumo total eh de: %d khw \n", total_consumo);
     printf("o valor do consumo eh de: %d R$\n", valor_consumo);
+    return 0;
 
 }
