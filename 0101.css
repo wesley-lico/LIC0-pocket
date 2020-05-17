@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align: center;
+    background-color: violet;
+    background-size: contain;
+}
